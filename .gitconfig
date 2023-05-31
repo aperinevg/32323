@@ -1,0 +1,5 @@
+[http]
+    sslVerify = false
+[user]
+    name = Aperin Evgenii
+    email = aperinevg@yandex.ru
